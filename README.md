@@ -1,5 +1,7 @@
 # 토시리 테트리스
 
+**플레이 → https://prompt-tetris.vercel.app**
+
 초등학생을 위한 테트리스. 공간 감각과 추리 능력을 기르는 것이 목표라, 반응 속도가 아니라 **쌓인 높이**가 난이도를 만들도록 설계했습니다.
 
 React 19 + TypeScript + Vite, 렌더는 `<canvas>` 2D.
